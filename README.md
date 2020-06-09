@@ -8,4 +8,4 @@ A simple shell in which you can write commands looking at unix binaries and buil
  <li>Launch with piped commands with <code>echo "command" | ./42sh</code></li>
  <li>Launch as normal mode with <code>./42sh</code></li>
  <li>Exit shell <code>pressing ^D</code></li>
-The code respects Epitech-Norm and contains no memory leak and no error.
+<strong>The code</strong> respects Epitech-Norm and contains no memory leak and no error.
